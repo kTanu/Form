@@ -1,0 +1,72 @@
+body{
+    
+
+     /* The image used */
+     background-image: url("/assests/DR.-LANKAPALLI-BULLAYYA-COLLEGE-Admission-Fee.png");
+      
+     /* Full height */
+     height: 100%; 
+   
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: space;
+     background-size: cover;
+     background-attachment: fixed;
+     position: relative;
+     
+    }
+    
+    .form
+    {
+      font-size:22px;
+        
+      padding:20px;
+        box-shadow:0 0 0 7px;
+        width:50%;
+       margin: auto;
+       margin-top: 100px;
+       margin-bottom: 100px;
+       
+        
+        background-color: blanchedalmond;
+        
+
+    }
+    .img{
+        height: 150px;
+        width: 250px;
+        margin: auto;
+        margin-bottom: 100px;
+    }
+    h1 {
+    color:rgb(25, 74, 119);
+    }
+
+
+    .form-content{
+        text-align: left;
+        font-size: 20px;
+        
+        
+    }
+
+    h2{
+        color: red;
+    }
+
+    body,html{
+        height: 100%;
+       
+       
+      }
+      
+      .attribution {
+        margin-top: 0px;
+        font-size: 25px;
+        text-align: center;
+        color: black;
+      }
+      
+      .attribution a {
+        color: hsl(308, 80%, 18%);
+      }
