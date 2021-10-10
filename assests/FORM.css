@@ -2,7 +2,7 @@ body{
     
 
      /* The image used */
-     background-image: url("/assests/DR.-LANKAPALLI-BULLAYYA-COLLEGE-Admission-Fee.png");
+     background-image: url(/assests/DR.-LANKAPALLI-BULLAYYA-COLLEGE-Admission-Fee.png);
       
      /* Full height */
      height: 100%; 
